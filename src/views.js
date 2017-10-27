@@ -67,7 +67,7 @@ function emailLogin(accounts, parent, method, callback, options)
   tr.Td('or')
     .Padding('1em');
   td = tr.Td('')
-  let passwordlessLogin = td.Button(options.loginLinkPrefix ? 'Send me a magic link' : 'Send me a one time password');
+  let passwordlessLogin = td.Button(options.passwordlessLabel || (options.loginLinkPrefix ? 'Send me a magic link' : 'Send me a one time password'));
   if (options.passwordlessNotice)
   {
     td.P(options.passwordlessNotice);
@@ -102,7 +102,7 @@ function emailLogin(accounts, parent, method, callback, options)
 
   passwordlessLogin.OnClick(() =>
   {
-    accounts.loginPasswordless(method, getParams())
+    accounts.loginPasswordless(method, getParams(), options.passwordlessMode || 'passwordless')
       .then(x => alert(x.success || x), x => alert(x.error || x));
   });
 

@@ -72,10 +72,10 @@ export class Client
     }
   }
 
-  loginPasswordless(method, parameters)
+  loginPasswordless(method, parameters, mode='passwordless')
   {
     console.log(method, parameters);
-    return createRequest(this.endpoint(method.method, 'passwordless'), parameters);
+    return createRequest(this.endpoint(method.method, mode), parameters);
   }
 
   logout()
