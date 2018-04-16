@@ -1,6 +1,8 @@
 "use strict";
 
-export function request(method, url, body = undefined, transform = x => x)
+export const defaultHeaders = {};
+
+export function request(method, url, body = undefined, transform = x => x, headers=defaultHeaders)
 {
   let start = Date.now();
 
@@ -80,6 +82,11 @@ export function request(method, url, body = undefined, transform = x => x)
     });
 
     req.open(method, url);
+    
+    for (const [header, value] of Object.entries(headers))
+    {
+      req.setRequestHeader(header, value);
+    }
 
     if (typeof body === "object" || typeof body === "string")
     {
