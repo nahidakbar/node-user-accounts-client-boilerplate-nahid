@@ -1,6 +1,6 @@
 {
   "name": "node-user-accounts-client-boilerplate",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Client side helper/boilerplate functionality for dealing with user accounts API.",
   "main": "Client.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "test": "jbn test",
     "comp": "jbn comp"
   },
-  "author": "Nahid Akbar",
+  "author": "Nahid Akbar <mail@nahidakbar.net> (http://nahidakbar.net/)",
   "license": "MIT",
   "devDependencies": {
     "jbn": "latest"

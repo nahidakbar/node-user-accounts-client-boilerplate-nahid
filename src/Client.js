@@ -21,7 +21,7 @@ export class Client
 {
   constructor(options = {})
   {
-    this.prefix = options.prefix || '/api/accounts';
+    this.prefix = options.prefix || 'api/accounts';
     this.endpoint = endpoint(this.prefix);
   }
 
