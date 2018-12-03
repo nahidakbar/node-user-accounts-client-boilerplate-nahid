@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../../">
+  <title data-ice="title">node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js | node-user-accounts-client-boilerplate</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Client side helper/boilerplate functionality for dealing with user accounts API."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="node-user-accounts-client-boilerplate"><meta property="twitter:description" content="Client side helper/boilerplate functionality for dealing with user accounts API."></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src">src</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/node-user-accounts-client-boilerplate-nahid/src/Client.js~Client.html">Client</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showLoginView">showLoginView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showManageView">showManageView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showProfileView">showProfileView</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-editors">src/editors</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-keyValue">keyValue</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-section">section</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showArrayEditor">showArrayEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showEditor">showEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-multiselect">multiselect</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-select">select</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-helper">src/helper</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-endpoint">endpoint</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-createRequest">createRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-deleteRequest">deleteRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-readRequest">readRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-registerProgressCallback">registerProgressCallback</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-request">request</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-searchRequest">searchRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-updateRequest">updateRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-defaultHeaders">defaultHeaders</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import
+{
+  event
+}
+from &apos;d3-selection&apos;;
+
+export function showEditor(parent, editor, value, saveCallback, orderMatters = false)
+{
+  value = value || &apos;&apos;;
+
+  function view()
+  {
+    editor.view(parent.clear(), value);
+    parent.Button(&apos;Edit&apos;)
+      .Title(&apos;Edit Item&apos;)
+      .Class(&apos;editor&apos;)
+      .OnClick(() =&gt;
+      {
+        edit();
+        event &amp;&amp; event.preventDefault();
+      });
+  }
+
+  function edit()
+  {
+    let newValue = value;
+    editor.edit(parent.clear(), value, newVal =&gt; newValue = newVal);
+    parent.Button(&apos;Save&apos;)
+      .Title(&apos;Save Changes&apos;)
+      .Class(&apos;editor&apos;)
+      .OnClick(() =&gt;
+      {
+        console.log(newValue, value);
+        if (newValue !== value)
+        {
+          saveCallback(newValue);
+          value = newValue;
+        }
+        view();
+        event &amp;&amp; event.preventDefault();
+      });
+    parent.Button(&apos;Discard&apos;)
+      .Title(&apos;Discard Changes&apos;)
+      .Class(&apos;editor&apos;)
+      .OnClick(() =&gt;
+      {
+        view();
+        event &amp;&amp; event.preventDefault();
+      });
+  }
+  view();
+}
+
+function defaultAdd(defaultValue)
+{
+  return new Promise(resolve =&gt; resolve(defaultValue));
+}
+
+export function showArrayEditor(container, editor, data, saveCallback, defaultValue = &apos;&apos;)
+{
+  data = data || [];
+
+  function save()
+  {
+    saveCallback(data.filter(i =&gt; i &amp;&amp; JSON.stringify(i) != JSON.stringify(defaultValue)));
+    render();
+  }
+
+  function render()
+  {
+    container.clear();
+    data.forEach(function (item, itemIndex)
+    {
+      let row = container.Div();
+
+      function edit()
+      {
+        let newValue = item;
+        editor.edit(row.clear(), item, value =&gt;
+        {
+          newValue = value;
+        });
+        row.Button(&apos;Save&apos;)
+          .Title(&apos;Save Changes&apos;)
+          .Class(&apos;editor&apos;)
+          .OnClick(() =&gt;
+          {
+            if (newValue !== item)
+            {
+              data[itemIndex] = newValue;
+              save();
+            }
+            view();
+            event &amp;&amp; event.preventDefault();
+          });
+        row.Button(&apos;Discard&apos;)
+          .Title(&apos;Discard Changes&apos;)
+          .Class(&apos;editor&apos;)
+          .OnClick(() =&gt;
+          {
+            view();
+            event &amp;&amp; event.preventDefault();
+          });
+      }
+
+      function del()
+      {
+        data.splice(itemIndex, 1)
+        save();
+      }
+
+      function view()
+      {
+        editor.view(row, data[itemIndex]);
+        row.Button(&apos;Edit&apos;)
+          .Title(&apos;Edit Item&apos;)
+          .Class(&apos;editor&apos;)
+          .OnClick(edit);
+        row.Button(&apos;Delete&apos;)
+          .Title(&apos;Delete Item&apos;)
+          .Class(&apos;editor&apos;)
+          .OnClick(del);
+      }
+      view();
+    });
+    if (data.length === 0)
+    {
+      container.Span(&apos;Empty&apos;);
+    }
+    container.Button(&apos;Add New&apos;)
+      .Title(&apos;Add New Item&apos;)
+      .Class(&apos;editor&apos;)
+      .OnClick(add);
+  }
+
+  function add()
+  {
+    (editor.add || defaultAdd)(defaultValue)
+    .then(value =&gt;
+    {
+      data.push(JSON.parse(JSON.stringify(value)));
+      if (data[data.length - 1])
+      {
+        save();
+      }
+      else
+      {
+        render();
+      }
+    });
+  }
+  render();
+
+
+  /*
+  function view()
+  {
+    editor.view(parent.clear(), value);
+    parent.A(&apos;&amp;#x270e;&apos;).OnClick(() =&gt;
+    {
+      edit();
+      event &amp;&amp; event.preventDefault();
+    });
+  }
+  function edit()
+  {
+    let newValue = value;
+    editor.edit(parent.clear(), value, newVal =&gt; newValue = newVal);
+    parent.A(&apos;&amp;#x1f4be;&apos;).OnClick(() =&gt;
+    {
+      if (newValue !== value)
+      {
+        saveCallback(newValue);
+        value = newValue;
+      }
+      view();
+      event &amp;&amp; event.preventDefault();
+    });
+    parent.A(&apos;&amp;#x1f5d9;&apos;).OnClick(() =&gt;
+    {
+      view();
+      event &amp;&amp; event.preventDefault();
+    });
+  }
+  view();
+  */
+}
+
+
+export function section(parent, label)
+{
+  parent = parent.Table()
+    .Tbody();
+  parent.Tr()
+    .Th(label);
+  return parent.Tr()
+    .Td();
+}
+
+
+export function keyValue(parent, label, class_ = &apos;&apos;)
+{
+  parent = parent.Div()
+    .Class(&apos;layout-key-value &apos; + class_);
+  parent.Div(label)
+    .Class(&apos;key&apos;);
+  return parent.Div()
+    .Class(&apos;value&apos;);
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

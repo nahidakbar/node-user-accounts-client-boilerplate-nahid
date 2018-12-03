@@ -1,0 +1,2154 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/Client.js",
+    "content": "\"use strict\";\n\nimport\n{\n  endpoint\n}\nfrom \"./helper/endpoint\"\nimport\n{\n  readRequest,\n  createRequest,\n  updateRequest,\n  deleteRequest\n}\nfrom \"./helper/request\"\n\n/**\n * Authentication Client\n */\nexport class Client\n{\n  constructor(options = {})\n  {\n    this.prefix = options.prefix || 'api/accounts';\n    this.endpoint = endpoint(this.prefix);\n  }\n\n  currentUser()\n  {\n    return readRequest(this.endpoint('current'));\n  }\n\n  updateCurrentUser(update)\n  {\n    return updateRequest(this.endpoint('current'), update);\n  }\n\n  isLoggedIn()\n  {\n    return new Promise((resolve, reject) =>\n    {\n      this.currentUser()\n        .then(current =>\n        {\n          if (!current)\n          {\n            resolve(false);\n          }\n          else\n          {\n            resolve(true);\n          }\n        }, reject);\n    });\n  }\n\n  loginMethods()\n  {\n    return readRequest(this.endpoint('methods'));\n  }\n\n  login(method, parameters)\n  {\n    console.log(method, parameters);\n    if (method.redirect)\n    {\n      window.location = this.endpoint(method.method, 'login');\n    }\n    else\n    {\n      return createRequest(this.endpoint(method.method, 'login'), parameters);\n    }\n  }\n\n  loginPasswordless(method, parameters, mode='passwordless')\n  {\n    console.log(method, parameters);\n    return createRequest(this.endpoint(method.method, mode), parameters);\n  }\n\n  logout()\n  {\n    return readRequest(this.endpoint('logout'));\n  }\n\n  createUser(credentialType, credentialValue)\n  {\n    return createRequest(this.endpoint('new'), {\n      type: credentialType,\n      value: credentialValue\n    });\n  }\n\n  searchUsers(options = {})\n  {\n    return readRequest(this.endpoint('search') + '?' + Object.keys(options)\n      .map(x => `${x}=${options[x]}`)\n      .join('&'));\n  }\n\n  readUser(id)\n  {\n    return readRequest(this.endpoint(id));\n  }\n\n  updateUser(id, update)\n  {\n    return updateRequest(this.endpoint(id), update);\n  }\n\n  deleteUser(id)\n  {\n    return deleteRequest(this.endpoint(id));\n  }\n\n  fields()\n  {\n    return readRequest(this.endpoint('fields'));\n  }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/Client.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "Client",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/Client.js",
+    "importStyle": "{Client}",
+    "description": "Authentication Client",
+    "lineNumber": 20,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "member",
+    "name": "prefix",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#prefix",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "member",
+    "name": "endpoint",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#endpoint",
+    "access": "public",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "currentUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#currentUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "updateCurrentUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#updateCurrentUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 33,
+    "undocument": true,
+    "params": [
+      {
+        "name": "update",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "isLoggedIn",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#isLoggedIn",
+    "access": "public",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "method",
+    "name": "loginMethods",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#loginMethods",
+    "access": "public",
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "login",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#login",
+    "access": "public",
+    "description": null,
+    "lineNumber": 62,
+    "undocument": true,
+    "params": [
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parameters",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "method",
+    "name": "loginPasswordless",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#loginPasswordless",
+    "access": "public",
+    "description": null,
+    "lineNumber": 75,
+    "undocument": true,
+    "params": [
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parameters",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "mode",
+        "optional": true,
+        "types": [
+          "string"
+        ],
+        "defaultRaw": "passwordless",
+        "defaultValue": "passwordless"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "logout",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#logout",
+    "access": "public",
+    "description": null,
+    "lineNumber": 81,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "createUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#createUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 86,
+    "undocument": true,
+    "params": [
+      {
+        "name": "credentialType",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "credentialValue",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "searchUsers",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#searchUsers",
+    "access": "public",
+    "description": null,
+    "lineNumber": 94,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "method",
+    "name": "readUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#readUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 101,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "method",
+    "name": "updateUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#updateUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 106,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "update",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "method",
+    "name": "deleteUser",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#deleteUser",
+    "access": "public",
+    "description": null,
+    "lineNumber": 111,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "method",
+    "name": "fields",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/Client.js~Client#fields",
+    "access": "public",
+    "description": null,
+    "lineNumber": 116,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 66,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "content": "import\n{\n  event\n}\nfrom 'd3-selection';\n\nexport function showEditor(parent, editor, value, saveCallback, orderMatters = false)\n{\n  value = value || '';\n\n  function view()\n  {\n    editor.view(parent.clear(), value);\n    parent.Button('Edit')\n      .Title('Edit Item')\n      .Class('editor')\n      .OnClick(() =>\n      {\n        edit();\n        event && event.preventDefault();\n      });\n  }\n\n  function edit()\n  {\n    let newValue = value;\n    editor.edit(parent.clear(), value, newVal => newValue = newVal);\n    parent.Button('Save')\n      .Title('Save Changes')\n      .Class('editor')\n      .OnClick(() =>\n      {\n        console.log(newValue, value);\n        if (newValue !== value)\n        {\n          saveCallback(newValue);\n          value = newValue;\n        }\n        view();\n        event && event.preventDefault();\n      });\n    parent.Button('Discard')\n      .Title('Discard Changes')\n      .Class('editor')\n      .OnClick(() =>\n      {\n        view();\n        event && event.preventDefault();\n      });\n  }\n  view();\n}\n\nfunction defaultAdd(defaultValue)\n{\n  return new Promise(resolve => resolve(defaultValue));\n}\n\nexport function showArrayEditor(container, editor, data, saveCallback, defaultValue = '')\n{\n  data = data || [];\n\n  function save()\n  {\n    saveCallback(data.filter(i => i && JSON.stringify(i) != JSON.stringify(defaultValue)));\n    render();\n  }\n\n  function render()\n  {\n    container.clear();\n    data.forEach(function (item, itemIndex)\n    {\n      let row = container.Div();\n\n      function edit()\n      {\n        let newValue = item;\n        editor.edit(row.clear(), item, value =>\n        {\n          newValue = value;\n        });\n        row.Button('Save')\n          .Title('Save Changes')\n          .Class('editor')\n          .OnClick(() =>\n          {\n            if (newValue !== item)\n            {\n              data[itemIndex] = newValue;\n              save();\n            }\n            view();\n            event && event.preventDefault();\n          });\n        row.Button('Discard')\n          .Title('Discard Changes')\n          .Class('editor')\n          .OnClick(() =>\n          {\n            view();\n            event && event.preventDefault();\n          });\n      }\n\n      function del()\n      {\n        data.splice(itemIndex, 1)\n        save();\n      }\n\n      function view()\n      {\n        editor.view(row, data[itemIndex]);\n        row.Button('Edit')\n          .Title('Edit Item')\n          .Class('editor')\n          .OnClick(edit);\n        row.Button('Delete')\n          .Title('Delete Item')\n          .Class('editor')\n          .OnClick(del);\n      }\n      view();\n    });\n    if (data.length === 0)\n    {\n      container.Span('Empty');\n    }\n    container.Button('Add New')\n      .Title('Add New Item')\n      .Class('editor')\n      .OnClick(add);\n  }\n\n  function add()\n  {\n    (editor.add || defaultAdd)(defaultValue)\n    .then(value =>\n    {\n      data.push(JSON.parse(JSON.stringify(value)));\n      if (data[data.length - 1])\n      {\n        save();\n      }\n      else\n      {\n        render();\n      }\n    });\n  }\n  render();\n\n\n  /*\n  function view()\n  {\n    editor.view(parent.clear(), value);\n    parent.A('&#x270e;').OnClick(() =>\n    {\n      edit();\n      event && event.preventDefault();\n    });\n  }\n  function edit()\n  {\n    let newValue = value;\n    editor.edit(parent.clear(), value, newVal => newValue = newVal);\n    parent.A('&#x1f4be;').OnClick(() =>\n    {\n      if (newValue !== value)\n      {\n        saveCallback(newValue);\n        value = newValue;\n      }\n      view();\n      event && event.preventDefault();\n    });\n    parent.A('&#x1f5d9;').OnClick(() =>\n    {\n      view();\n      event && event.preventDefault();\n    });\n  }\n  view();\n  */\n}\n\n\nexport function section(parent, label)\n{\n  parent = parent.Table()\n    .Tbody();\n  parent.Tr()\n    .Th(label);\n  return parent.Tr()\n    .Td();\n}\n\n\nexport function keyValue(parent, label, class_ = '')\n{\n  parent = parent.Div()\n    .Class('layout-key-value ' + class_);\n  parent.Div(label)\n    .Class('key');\n  return parent.Div()\n    .Class('value');\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 67,
+    "kind": "function",
+    "name": "showEditor",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js~showEditor",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "importStyle": "{showEditor}",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "editor",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "saveCallback",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "orderMatters",
+        "optional": true,
+        "types": [
+          "boolean"
+        ],
+        "defaultRaw": false,
+        "defaultValue": "false"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "defaultAdd",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js~defaultAdd",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [
+      {
+        "name": "defaultValue",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "showArrayEditor",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js~showArrayEditor",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "importStyle": "{showArrayEditor}",
+    "description": null,
+    "lineNumber": 59,
+    "undocument": true,
+    "params": [
+      {
+        "name": "container",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "editor",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "saveCallback",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "defaultValue",
+        "optional": true,
+        "types": [
+          "string"
+        ],
+        "defaultRaw": "",
+        "defaultValue": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "section",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js~section",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "importStyle": "{section}",
+    "description": null,
+    "lineNumber": 190,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "label",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "function",
+    "name": "keyValue",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js~keyValue",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js",
+    "importStyle": "{keyValue}",
+    "description": null,
+    "lineNumber": 201,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "label",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "class_",
+        "optional": true,
+        "types": [
+          "string"
+        ],
+        "defaultRaw": "",
+        "defaultValue": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "content": "export function edit(parent, name, callback)\n{\n  let given = parent.Text()\n    .Value(name.givenName)\n    .Placeholder('Given Name');\n  let middle = parent.Text()\n    .Value(name.middleName)\n    .Placeholder('Middle Name');\n  let family = parent.Text()\n    .Value(name.familyName)\n    .Placeholder('Family Name');\n  given.OnInput(() =>\n  {\n    const givenName = given.Value() || undefined;\n    const middleName = middle.Value() || undefined;\n    const familyName = family.Value() || undefined;\n    callback({\n      givenName,\n      middleName,\n      familyName\n    });\n  });\n  middle.OnInput(given.OnInput());\n  family.OnInput(given.OnInput());\n}\n\nexport function view(parent, name)\n{\n  parent.text([name.givenName, name.middleName, name.familyName].filter(i => i)\n    .join(' '));\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "edit",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js~edit",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "importStyle": "{edit}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "name",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "view",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js~view",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js",
+    "importStyle": "{view}",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "name",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "content": "\"use strict\";\n\nexport function edit(parent, value, callback)\n{\n  let control = parent.InputPassword();\n  control.OnInput(() =>\n  {\n    callback(control.Value());\n  });\n  callback('');\n}\n\nexport function view(parent, value)\n{\n  if (value)\n  {\n    parent.text('[Set]');\n  }\n  else\n  {\n    parent.text('[Not Set]');\n  }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "edit",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js~edit",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "importStyle": "{edit}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 77,
+    "kind": "function",
+    "name": "view",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js~view",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js",
+    "importStyle": "{view}",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "content": "\"use strict\";\n\n\nexport function select(options)\n{\n  function edit(parent, value, callback)\n  {\n    let control = parent.Select()\n      .Options(options)\n      .Value(value);\n    control.OnInput(() =>\n    {\n      callback(control.Value());\n    });\n  }\n\n  function view(parent, value)\n  {\n    parent.text(options[value] || value || 'Not Set');\n  }\n\n  return {\n    edit,\n    view\n  };\n}\n\nexport function multiselect(options)\n{\n  function edit(parent, value, callback)\n  {\n    value = JSON.parse(JSON.stringify(value));\n    Object.keys(options)\n      .sort()\n      .forEach(option =>\n      {\n        let row = parent.P();\n        let id = Math.random() + '';\n        let control = row.InputCheckbox()\n          .Id(id);\n        row.Label(options[option])\n          .For(id);\n        if (value[option])\n        {\n          control.Checked(value[option]);\n        }\n        control.OnChange(() =>\n        {\n          value[option] = control.Checked();\n          callback(value);\n        });\n      });\n  }\n\n  function view(parent, value)\n  {\n    let text = Object.keys(value)\n      .filter(x => value[x])\n      .map(x => options[x])\n      .join('; ');\n    parent.text(text || 'None');\n  }\n\n  return {\n    edit,\n    view\n  };\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "function",
+    "name": "select",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js~select",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "importStyle": "{select}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"edit\": *, \"view\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "multiselect",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js~multiselect",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js",
+    "importStyle": "{multiselect}",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"edit\": *, \"view\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "content": "\"use strict\";\n\nexport function edit(parent, value, callback)\n{\n  let control = parent.Text()\n    .Value(value);\n  control.OnInput(() =>\n  {\n    callback(control.Value());\n  });\n}\n\nexport function view(parent, value)\n{\n  if (value)\n  {\n    parent.text(value);\n  }\n  else\n  {\n    parent.text('[Empty]');\n  }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "edit",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js~edit",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "importStyle": "{edit}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 83,
+    "kind": "function",
+    "name": "view",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js~view",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js",
+    "importStyle": "{view}",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "params": [
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "value",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 84,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js",
+    "content": "export function endpoint(prefix = '/', format = '.json')\n{\n  return function ()\n  {\n    let path = prefix;\n    for (let x = 0; x < arguments.length; x++)\n    {\n      path += '/' + arguments[x];\n    }\n    return path + format;\n  }\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 85,
+    "kind": "function",
+    "name": "endpoint",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js~endpoint",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js",
+    "importStyle": "{endpoint}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "prefix",
+        "optional": true,
+        "types": [
+          "string"
+        ],
+        "defaultRaw": "/",
+        "defaultValue": "/"
+      },
+      {
+        "name": "format",
+        "optional": true,
+        "types": [
+          "string"
+        ],
+        "defaultRaw": ".json",
+        "defaultValue": ".json"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "content": "\"use strict\";\n\nexport const defaultHeaders = {};\n\nexport function request(method, url, body = undefined, transform = x => x, headers=defaultHeaders)\n{\n  let start = Date.now();\n\n  return new Promise((resolve, reject) =>\n  {\n\n    function processResponse(err, xhr)\n    {\n      console.log(method, url, 'took', Date.now() - start, 'ms');\n      xhr = xhr || err.target;\n      let type = xhr && xhr.getResponseHeader('Content-Type') || 'text';\n      if (err)\n      {\n        err = xhr.responseText;\n        if (type.match(/json/))\n        {\n          reject(JSON.parse(xhr.responseText));\n        }\n        else if (type.match(/text/))\n        {\n          reject({\n            error: xhr.responseText\n          });\n        }\n        else\n        {\n          reject(err);\n        }\n      }\n      else\n      {\n        if (type.match(/json/) || (xhr.response && xhr.response.substr(0, 1) === '{'))\n        {\n          resolve(transform(JSON.parse(xhr.responseText)));\n        }\n        else if (type.match(/text/))\n        {\n          resolve(transform(xhr.responseText));\n        }\n        else\n        {\n          resolve(transform(xhr.response));\n        }\n      }\n    }\n\n\n    var req = new XMLHttpRequest();\n\n    function progress(event)\n    {\n      if (progressCallback)\n      {\n        progressCallback(event, method + ' ' + url);\n      }\n    }\n    req.addEventListener(\"progress\", progress);\n    req.upload && req.upload.addEventListener(\"progress\", progress);\n\n    req.addEventListener(\"readystatechange\", function ()\n    {\n      if (progressCallback)\n      {\n        progressCallback(null, method + ' ' + url);\n      }\n      if (this.readyState == 4)\n      {\n        if (this.status >= 200 && this.status < 300)\n        {\n          processResponse(null, this);\n        }\n        else\n        {\n          processResponse('ERROR', req);\n        }\n      }\n    });\n\n    req.open(method, url);\n    \n    for (const [header, value] of Object.entries(headers))\n    {\n      req.setRequestHeader(header, value);\n    }\n\n    if (typeof body === \"object\" || typeof body === \"string\")\n    {\n      if (!(body instanceof FormData))\n      {\n        req.setRequestHeader(\"Content-Type\", \"application/json\");\n        body = JSON.stringify(body);\n      }\n    }\n\n    req.send(body || '');\n  });\n}\n\nexport function createRequest()\n{\n  return request.apply(null, ['POST'].concat(Array.prototype.slice.call(arguments)));\n}\n\nexport function readRequest()\n{\n  return request.apply(null, ['GET'].concat(Array.prototype.slice.call(arguments)));\n}\n\nexport function updateRequest()\n{\n  return request.apply(null, ['PUT'].concat(Array.prototype.slice.call(arguments)));\n}\n\nexport function deleteRequest()\n{\n  return request.apply(null, ['DELETE'].concat(Array.prototype.slice.call(arguments)));\n}\n\nexport function searchRequest()\n{\n  return request.apply(null, ['SEARCH'].concat(Array.prototype.slice.call(arguments)));\n}\n\nlet progressCallback = false;\n\nexport function registerProgressCallback(callback)\n{\n  progressCallback = callback;\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 87,
+    "kind": "variable",
+    "name": "defaultHeaders",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~defaultHeaders",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{defaultHeaders}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{}"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "request",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~request",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{request}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "url",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "body",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "undefined",
+        "defaultValue": "undefined"
+      },
+      {
+        "name": "transform",
+        "optional": true,
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "headers",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "defaultHeaders",
+        "defaultValue": "defaultHeaders"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "function",
+    "name": "createRequest",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~createRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{createRequest}",
+    "description": null,
+    "lineNumber": 104,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "readRequest",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~readRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{readRequest}",
+    "description": null,
+    "lineNumber": 109,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "updateRequest",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~updateRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{updateRequest}",
+    "description": null,
+    "lineNumber": 114,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "deleteRequest",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~deleteRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{deleteRequest}",
+    "description": null,
+    "lineNumber": 119,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 93,
+    "kind": "function",
+    "name": "searchRequest",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~searchRequest",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{searchRequest}",
+    "description": null,
+    "lineNumber": 124,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "variable",
+    "name": "progressCallback",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~progressCallback",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 129,
+    "undocument": true,
+    "type": {
+      "types": [
+        "boolean"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "registerProgressCallback",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/helper/request.js~registerProgressCallback",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/helper/request.js",
+    "importStyle": "{registerProgressCallback}",
+    "description": null,
+    "lineNumber": 131,
+    "undocument": true,
+    "params": [
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/index.js",
+    "content": "\"use strict\"\n\nexport * from './views';\nexport * from './Client';\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "file",
+    "name": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "content": "\"use strict\";\n\nimport * as text from \"./editors/TextEditor\";\nimport * as name from \"./editors/NameEditor\";\nimport * as pass from \"./editors/PasswordEditor\";\nimport\n{\n  select,\n  multiselect\n}\nfrom \"./editors/SelectionEditor\";\nimport\n{\n  showEditor,\n  keyValue\n}\nfrom \"./editors/Editors\";\n\n// ==========================\n// LOGIN\n// ==========================\nfunction emailLogin(accounts, parent, method, callback, options)\n{\n  parent.P()\n    .Strong('Login using ' + method.method);\n\n  let table = parent.Table()\n    .Width('100%')\n    .Tbody(),\n    tr, td;\n\n  tr = table.Tr();\n  let serial = 1;\n\n  tr.Td(`${serial++}.`);\n  let emailInput = tr.Td()\n    .Colspan(3)\n    .Email()\n    .Width('100%')\n    .Placeholder('Please enter your email address')\n    .Autocomplete(\"off\")\n    .Id('login-input-username');\n\n  let recaptcha = 0;\n\n  if (method.recaptcha)\n  {\n    tr = table.Tr();\n    tr.Td(`${serial++}.`);\n    td = tr.Td()\n      .Colspan(3);\n    recaptcha = grecaptcha.render(td.node(), {\n      sitekey: method.recaptcha\n    });\n  }\n\n  tr = table.Tr();\n  tr.Td(`${serial++}.`);\n  td = tr.Td();\n  let passwordInput = td.Password()\n    .Width('100%')\n    .Placeholder('I remember my password')\n    .Autocomplete(\"off\")\n    .Id('login-input-password');\n  let passwordLogin = td.Button('Login using password')\n    .Id('login-submit');\n  tr.Td('or')\n    .Padding('1em');\n  td = tr.Td('')\n  let passwordlessLogin = td.Button(options.passwordlessLabel || (options.loginLinkPrefix ? 'Send me a magic link' : 'Send me a one time password'));\n  if (options.passwordlessNotice)\n  {\n    td.P(options.passwordlessNotice);\n    // 'If you do not have an account, use this option to log in. A new account will be created for you. You may need to refer to an administrator to gain access to protected content.'\n  }\n\n  let verification = td.Div();\n\n  function getParams()\n  {\n    let username = emailInput.Value();\n    let password = passwordInput.Value();\n    let loginLinkPrefix = options.loginLinkPrefix ? `${options.loginLinkPrefix}&${options.usernameParam || 'u'}=${username}&${options.passwordParam || 't'}=` : undefined;\n    let recaptchaResponse = method.recaptcha ? grecaptcha.getResponse(recaptcha) : undefined;\n    if (method.recaptcha)\n    {\n      setTimeout(() => grecaptcha.reset(recaptcha), 3000);\n    }\n    return {\n      username,\n      password,\n      loginLinkPrefix,\n      recaptchaResponse,\n    };\n  }\n\n  passwordLogin.OnClick(() =>\n  {\n    accounts.login(method, getParams())\n      .then(callback, x => alert(x.error || x));\n  });\n\n  passwordlessLogin.OnClick(() =>\n  {\n    accounts.loginPasswordless(method, getParams(), options.passwordlessMode || 'passwordless')\n      .then(x => alert(x.success || x), x => alert(x.error || x));\n  });\n\n  passwordInput.OnKeydown(() =>\n  {\n    if (event && event.key === 'Enter')\n    {\n      passwordLogin.OnClick()();\n    }\n  });\n\n  emailInput.OnKeydown(() =>\n  {\n    if (event && event.key === 'Enter')\n    {\n      passwordlessLogin.OnClick()();\n    }\n  });\n\n  if (options.username)\n  {\n    emailInput.Value(options.username)\n    if (options.password)\n    {\n      passwordInput.Value(options.password);\n      passwordLogin.OnClick()();\n    }\n  }\n}\n\nfunction oneClickLogin(accounts, parent, method, callback)\n{\n  parent.Button('Log in using ' + method.method)\n    .OnClick(() =>\n    {\n      accounts.login(method)\n        .then(callback, x => alert(x.error || x));\n    });\n}\n\nconst loginMethodViews = {\n  email: emailLogin\n};\n\nexport function showLoginView(accounts, parent, options = {})\n{\n  return new Promise(resolve =>\n  {\n    parent.loader('Logging in');\n    accounts.loginMethods()\n      .then(methods =>\n      {\n        parent.clear();\n        for (let method of methods)\n        {\n          let container = parent.Div();\n          try\n          {\n            (loginMethodViews[method.method] || oneClickLogin)(accounts, container.Div(), method, resolve, options);\n          }\n          catch (e)\n          {\n            console.error(e);\n          }\n        }\n      });\n  });\n}\n\n// ==========================\n// PROFILE\n// ==========================\n\nconst makeDefaultFields = function (options)\n{\n  const output = {\n    displayName: {\n      label: 'Display Name',\n      defaultValue: '',\n      editor: text\n    },\n    password: {\n      label: 'Password',\n      editor: pass,\n      // customAdmin: function(parent, value, save)\n      // {\n      //   if (value)\n      //   {\n      //     keyValue(parent, this.label).Button('Delete').OnClick(() => save(false));\n      //   }\n      // }\n    },\n  };\n  if (options.roles)\n  {\n    output.roles = {\n      label: 'Roles',\n      editor: multiselect(options.roles)\n    };\n  }\n  return output;\n}\n\n/**\n * xxx\n */\nexport async function showProfileView(accounts, parent, options = {})\n{\n  function save(field)\n  {\n    return function (value)\n    {\n      let update = {};\n      update[field] = value;\n      accounts.updateCurrentUser(update)\n        .then(xx => alert(xx.success), err => alert(err.error));\n    };\n  }\n\n  parent.loader('Loading Profile');\n\n  const defaultFields = makeDefaultFields(options);\n  const record = await accounts.currentUser();\n  const fields = await accounts.fields();\n\n  parent.clear();\n\n  for (let field of fields.filter(field => field.enabled && field.self))\n  {\n    let meta = defaultFields[field.name] || (options.fields || {})[field.name];\n    if (meta)\n    {\n      showEditor(keyValue(parent, meta.label), meta.editor, record[field.name] || meta.defaultValue, save(field.name));\n    }\n  }\n}\n\n// ==========================\n// MANAGE USERS\n// ==========================\n\nexport function showManageView(accounts, parent, options = {})\n{\n  parent.clear();\n  let list = parent.Div();\n  let sub = parent.Div()\n    .Display('none');\n  const usersList = list.Table()\n    .Class('table')\n    .Tbody();\n  let tr = usersList.Tr();\n  tr.Th('Name');\n  tr.Th('Roles');\n  tr.Th('Actions');\n  const moreList = list.Div();\n  let allUsers = [];\n  async function load()\n  {\n    moreList.loader('Loading users');\n    const results = await accounts.searchUsers({\n      offset: allUsers.length\n    });\n    usersList.clear();\n    allUsers = allUsers.concat(results.results);\n    allUsers.forEach(user =>\n    {\n      let tr = usersList.Tr();\n      tr.Td(user.displayName);\n      tr.Td(Object.keys(user.roles)\n        .filter(r => user.roles[r])\n        .join(', '));\n      let td = tr.Td();\n      td.Button('Edit')\n        .OnClick(editUser.bind(null, user));\n      td.Button('Delete')\n        .OnClick(deleteUser.bind(null, user));\n    });\n    moreList.clear()\n      .Button('Load More')\n      .OnClick(load);\n    if (options.newUserTypes)\n    {\n      moreList.Button('New User')\n        .OnClick(newUser);\n    }\n  }\n  async function reload()\n  {\n    allUsers = [];\n    await load();\n  }\n\n  function editUser(user)\n  {\n    list.Display('none');\n    sub.Display('')\n      .loader();\n    async function display()\n    {\n      try\n      {\n        const id = user.id;\n        const defaultFields = makeDefaultFields(options);\n        const record = await accounts.readUser(user.id);\n        const fields = await accounts.fields();\n\n        function save(field, refresh)\n        {\n          return function (value)\n          {\n            let update = {};\n            update[field] = value;\n            accounts.updateUser(id, update)\n              .then(xx =>\n              {\n                alert(xx.success);\n                if (refresh)\n                {\n                  display();\n                }\n              }, err => alert(err.error));\n          };\n        }\n\n        sub.clear();\n        sub.H2(`Edit ${record.displayName}`);\n\n        for (let field of fields.filter(field => field.enabled && field.admin))\n        {\n          let meta = defaultFields[field.name] || (options.fields || {})[field.name];\n          if (meta)\n          {\n            showEditor(keyValue(sub, meta.label), meta.editor, record[field.name] || meta.defaultValue, save(field.name));\n          }\n        }\n        //\n        // showEditor(keyValue(sub, 'Display Name'), text, record.displayName || '', save('displayName'));\n        // if (record.password)\n        // {\n        //   keyValue(sub, 'Password').Button('Delete').OnClick(() => save('password', true)(''));\n        // }\n        // if (options.notification)\n        // {\n        //   if (options.notification.interval)\n        //   {\n        //     showEditor(keyValue(sub, 'Notify Me'), select(options.notification.interval), record.notificationInterval, save('notificationInterval'));\n        //   }\n        //   if (options.notification.subscription)\n        //   {\n        //     showEditor(keyValue(sub, 'Notification Subscriptions'), multiselect(options.notification.subscription), record.notificationSubscriptions || {}, save('notificationSubscriptions'));\n        //   }\n        // }\n        // if (options.roles)\n        // {\n        //   showEditor(keyValue(sub, 'Roles'), multiselect(options.roles), record.roles || {}, save('roles'));\n        // }\n\n        sub.Button('Back')\n          .OnClick(() =>\n          {\n            list.Display('');\n            sub.Display('none');\n            reload();\n          });\n      }\n      catch (err)\n      {\n        alert(err.message);\n      }\n    }\n    display();\n  }\n\n  function deleteUser(user)\n  {\n    list.Display('none');\n    sub.Display('')\n      .clear();\n    sub.H2(`Do you want to delete this user: ${user.displayName}?`);\n    sub.Button('Yes')\n      .OnClick(() =>\n      {\n        accounts.deleteUser(user.id)\n          .then(x =>\n          {\n            alert(x.success);\n            list.Display('');\n            sub.Display('none');\n            reload();\n          }, x => alert(x.error));\n      });\n    sub.Button('No')\n      .OnClick(() =>\n      {\n        list.Display('');\n        sub.Display('none');\n      });\n  }\n  async function newUser()\n  {\n    list.Display('none');\n    sub.Display('')\n      .clear();\n    Object.keys(options.newUserTypes)\n      .forEach(type_ =>\n      {\n        sub.H2(`Create New User With ${options.newUserTypes[type_]}:`);\n        const inputCredential = sub.InputText()\n          .Placeholder(`Enter new ${type_} here:`);\n        sub.Button('Create')\n          .OnClick(async() =>\n          {\n            const credential = inputCredential.Value()\n              .replace(/\\s/g, '');\n            if (credential)\n            {\n              try\n              {\n                const response = await accounts.createUser(type_, credential);\n                alert(response.success)\n                list.Display('');\n                sub.Display('none');\n                await reload();\n                editUser(response.user);\n              }\n              catch (err)\n              {\n                console.log(err)\n                alert(err.error || err.message);\n              }\n            }\n            else\n            {\n              alert(`Please input ${type}`)\n            }\n          });\n        sub.Button('Cancel')\n          .OnClick(() =>\n          {\n            list.Display('');\n            sub.Display('none');\n          });\n      });\n\n  }\n  load();\n}\n",
+    "static": true,
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 98,
+    "kind": "function",
+    "name": "emailLogin",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~emailLogin",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accounts",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 99,
+    "kind": "function",
+    "name": "oneClickLogin",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~oneClickLogin",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 136,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accounts",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "callback",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 100,
+    "kind": "variable",
+    "name": "loginMethodViews",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~loginMethodViews",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 146,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"email\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 101,
+    "kind": "function",
+    "name": "showLoginView",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~showLoginView",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": "{showLoginView}",
+    "description": null,
+    "lineNumber": 150,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accounts",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 102,
+    "kind": "function",
+    "name": "makeDefaultFields",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~makeDefaultFields",
+    "access": "public",
+    "export": false,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 179,
+    "undocument": true,
+    "params": [
+      {
+        "name": "options",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "showProfileView",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~showProfileView",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": "{showProfileView}",
+    "description": "xxx",
+    "lineNumber": 212,
+    "params": [
+      {
+        "name": "accounts",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 104,
+    "kind": "function",
+    "name": "showManageView",
+    "memberof": "node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "node-user-accounts-client-boilerplate-nahid/src/views.js~showManageView",
+    "access": "public",
+    "export": true,
+    "importPath": "node-user-accounts-client-boilerplate/node-user-accounts-client-boilerplate-nahid/src/views.js",
+    "importStyle": "{showManageView}",
+    "description": null,
+    "lineNumber": 247,
+    "undocument": true,
+    "params": [
+      {
+        "name": "accounts",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "parent",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "options",
+        "optional": true,
+        "types": [
+          "{}"
+        ],
+        "defaultRaw": {},
+        "defaultValue": "{}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "## Classes\n\n[![SCM](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/public.svg)](https://github.com/nahidakbar/node-user-accounts-client-boilerplate-nahid)\n[![Build Status](https://travis-ci.org/nahidakbar/node-user-accounts-client-boilerplate-nahid.svg?branch=master)](https://travis-ci.org/nahidakbar/node-user-accounts-client-boilerplate-nahid)\n[![Documentation](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/badge.svg)](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/)\n[![Coverage](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/lines.svg)](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/)\n[![Coverage](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/functions.svg)](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/)\n[![Coverage](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/branches.svg)](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/)\n[![Coverage](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/statements.svg)](https://nahidakbar.github.io/node-user-accounts-client-boilerplate-nahid/coverage/)\n\n<dl>\n<dt><a href=\"#Client\">Client</a></dt>\n<dd><p>Authentication Client</p>\n</dd>\n</dl>\n\n## Functions\n\n<dl>\n<dt><a href=\"#showProfileView\">showProfileView()</a></dt>\n<dd><p>xxx</p>\n</dd>\n</dl>\n\n<a name=\"Client\"></a>\n\n## Client\nAuthentication Client\n\n**Kind**: global class  \n<a name=\"showProfileView\"></a>\n\n## showProfileView()\nxxx\n\n**Kind**: global function  \n",
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"node-user-accounts-client-boilerplate\",\n  \"version\": \"0.1.1\",\n  \"description\": \"Client side helper/boilerplate functionality for dealing with user accounts API.\",\n  \"main\": \"Client.js\",\n  \"scripts\": {\n    \"watch\": \"babel --presets latest src/ --watch --out-dir .\",\n    \"docs\": \"jbn docs\",\n    \"init\": \"jbn init -i babel\",\n    \"form\": \"jbn form\",\n    \"lint\": \"jbn lint\",\n    \"test\": \"jbn test\",\n    \"comp\": \"jbn comp\"\n  },\n  \"author\": \"Nahid Akbar <mail@nahidakbar.net> (http://nahidakbar.net/)\",\n  \"license\": \"MIT\",\n  \"devDependencies\": {\n    \"jbn\": \"latest\"\n  },\n  \"dependencies\": {\n    \"d3-request\": \"^1.0.5\",\n    \"d3-selection\": \"^1.1.0\"\n  }\n}\n",
+    "longname": "/home/travis/build/nahidakbar/node-user-accounts-client-boilerplate-nahid/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

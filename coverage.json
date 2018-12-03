@@ -1,0 +1,106 @@
+{
+  "coverage": "4.25%",
+  "expectCount": 47,
+  "actualCount": 2,
+  "files": {
+    "node-user-accounts-client-boilerplate-nahid/src/Client.js": {
+      "expectCount": 17,
+      "actualCount": 1,
+      "undocumentLines": [
+        22,
+        24,
+        25,
+        28,
+        33,
+        38,
+        57,
+        62,
+        75,
+        81,
+        86,
+        94,
+        101,
+        106,
+        111,
+        116
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/editors/Editors.js": {
+      "expectCount": 5,
+      "actualCount": 0,
+      "undocumentLines": [
+        7,
+        54,
+        59,
+        190,
+        201
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/editors/NameEditor.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        1,
+        27
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/editors/PasswordEditor.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        13
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/editors/SelectionEditor.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        4,
+        28
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/editors/TextEditor.js": {
+      "expectCount": 2,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        13
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/helper/endpoint.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/helper/request.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        3,
+        5,
+        104,
+        109,
+        114,
+        119,
+        124,
+        129,
+        131
+      ]
+    },
+    "node-user-accounts-client-boilerplate-nahid/src/views.js": {
+      "expectCount": 7,
+      "actualCount": 1,
+      "undocumentLines": [
+        22,
+        136,
+        146,
+        150,
+        179,
+        247
+      ]
+    }
+  }
+}

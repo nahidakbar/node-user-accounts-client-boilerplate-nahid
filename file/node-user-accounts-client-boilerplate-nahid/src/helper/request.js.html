@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../../">
+  <title data-ice="title">node-user-accounts-client-boilerplate-nahid/src/helper/request.js | node-user-accounts-client-boilerplate</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Client side helper/boilerplate functionality for dealing with user accounts API."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="node-user-accounts-client-boilerplate"><meta property="twitter:description" content="Client side helper/boilerplate functionality for dealing with user accounts API."></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src">src</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/node-user-accounts-client-boilerplate-nahid/src/Client.js~Client.html">Client</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showLoginView">showLoginView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showManageView">showManageView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showProfileView">showProfileView</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-editors">src/editors</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-keyValue">keyValue</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-section">section</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showArrayEditor">showArrayEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showEditor">showEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-multiselect">multiselect</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-select">select</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-helper">src/helper</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-endpoint">endpoint</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-createRequest">createRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-deleteRequest">deleteRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-readRequest">readRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-registerProgressCallback">registerProgressCallback</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-request">request</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-searchRequest">searchRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-updateRequest">updateRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-defaultHeaders">defaultHeaders</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">node-user-accounts-client-boilerplate-nahid/src/helper/request.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">&quot;use strict&quot;;
+
+export const defaultHeaders = {};
+
+export function request(method, url, body = undefined, transform = x =&gt; x, headers=defaultHeaders)
+{
+  let start = Date.now();
+
+  return new Promise((resolve, reject) =&gt;
+  {
+
+    function processResponse(err, xhr)
+    {
+      console.log(method, url, &apos;took&apos;, Date.now() - start, &apos;ms&apos;);
+      xhr = xhr || err.target;
+      let type = xhr &amp;&amp; xhr.getResponseHeader(&apos;Content-Type&apos;) || &apos;text&apos;;
+      if (err)
+      {
+        err = xhr.responseText;
+        if (type.match(/json/))
+        {
+          reject(JSON.parse(xhr.responseText));
+        }
+        else if (type.match(/text/))
+        {
+          reject({
+            error: xhr.responseText
+          });
+        }
+        else
+        {
+          reject(err);
+        }
+      }
+      else
+      {
+        if (type.match(/json/) || (xhr.response &amp;&amp; xhr.response.substr(0, 1) === &apos;{&apos;))
+        {
+          resolve(transform(JSON.parse(xhr.responseText)));
+        }
+        else if (type.match(/text/))
+        {
+          resolve(transform(xhr.responseText));
+        }
+        else
+        {
+          resolve(transform(xhr.response));
+        }
+      }
+    }
+
+
+    var req = new XMLHttpRequest();
+
+    function progress(event)
+    {
+      if (progressCallback)
+      {
+        progressCallback(event, method + &apos; &apos; + url);
+      }
+    }
+    req.addEventListener(&quot;progress&quot;, progress);
+    req.upload &amp;&amp; req.upload.addEventListener(&quot;progress&quot;, progress);
+
+    req.addEventListener(&quot;readystatechange&quot;, function ()
+    {
+      if (progressCallback)
+      {
+        progressCallback(null, method + &apos; &apos; + url);
+      }
+      if (this.readyState == 4)
+      {
+        if (this.status &gt;= 200 &amp;&amp; this.status &lt; 300)
+        {
+          processResponse(null, this);
+        }
+        else
+        {
+          processResponse(&apos;ERROR&apos;, req);
+        }
+      }
+    });
+
+    req.open(method, url);
+    
+    for (const [header, value] of Object.entries(headers))
+    {
+      req.setRequestHeader(header, value);
+    }
+
+    if (typeof body === &quot;object&quot; || typeof body === &quot;string&quot;)
+    {
+      if (!(body instanceof FormData))
+      {
+        req.setRequestHeader(&quot;Content-Type&quot;, &quot;application/json&quot;);
+        body = JSON.stringify(body);
+      }
+    }
+
+    req.send(body || &apos;&apos;);
+  });
+}
+
+export function createRequest()
+{
+  return request.apply(null, [&apos;POST&apos;].concat(Array.prototype.slice.call(arguments)));
+}
+
+export function readRequest()
+{
+  return request.apply(null, [&apos;GET&apos;].concat(Array.prototype.slice.call(arguments)));
+}
+
+export function updateRequest()
+{
+  return request.apply(null, [&apos;PUT&apos;].concat(Array.prototype.slice.call(arguments)));
+}
+
+export function deleteRequest()
+{
+  return request.apply(null, [&apos;DELETE&apos;].concat(Array.prototype.slice.call(arguments)));
+}
+
+export function searchRequest()
+{
+  return request.apply(null, [&apos;SEARCH&apos;].concat(Array.prototype.slice.call(arguments)));
+}
+
+let progressCallback = false;
+
+export function registerProgressCallback(callback)
+{
+  progressCallback = callback;
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

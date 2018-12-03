@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">node-user-accounts-client-boilerplate-nahid/src/views.js | node-user-accounts-client-boilerplate</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="Client side helper/boilerplate functionality for dealing with user accounts API."><meta property="twitter:card" content="summary"><meta property="twitter:title" content="node-user-accounts-client-boilerplate"><meta property="twitter:description" content="Client side helper/boilerplate functionality for dealing with user accounts API."></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+</header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src">src</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/node-user-accounts-client-boilerplate-nahid/src/Client.js~Client.html">Client</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showLoginView">showLoginView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showManageView">showManageView</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showProfileView">showProfileView</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-editors">src/editors</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-keyValue">keyValue</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-section">section</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showArrayEditor">showArrayEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-showEditor">showEditor</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-multiselect">multiselect</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-select">select</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-edit">edit</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-view">view</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#src-helper">src/helper</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-endpoint">endpoint</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-createRequest">createRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-deleteRequest">deleteRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-readRequest">readRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-registerProgressCallback">registerProgressCallback</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-request">request</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-searchRequest">searchRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-updateRequest">updateRequest</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-defaultHeaders">defaultHeaders</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">node-user-accounts-client-boilerplate-nahid/src/views.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">&quot;use strict&quot;;
+
+import * as text from &quot;./editors/TextEditor&quot;;
+import * as name from &quot;./editors/NameEditor&quot;;
+import * as pass from &quot;./editors/PasswordEditor&quot;;
+import
+{
+  select,
+  multiselect
+}
+from &quot;./editors/SelectionEditor&quot;;
+import
+{
+  showEditor,
+  keyValue
+}
+from &quot;./editors/Editors&quot;;
+
+// ==========================
+// LOGIN
+// ==========================
+function emailLogin(accounts, parent, method, callback, options)
+{
+  parent.P()
+    .Strong(&apos;Login using &apos; + method.method);
+
+  let table = parent.Table()
+    .Width(&apos;100%&apos;)
+    .Tbody(),
+    tr, td;
+
+  tr = table.Tr();
+  let serial = 1;
+
+  tr.Td(`${serial++}.`);
+  let emailInput = tr.Td()
+    .Colspan(3)
+    .Email()
+    .Width(&apos;100%&apos;)
+    .Placeholder(&apos;Please enter your email address&apos;)
+    .Autocomplete(&quot;off&quot;)
+    .Id(&apos;login-input-username&apos;);
+
+  let recaptcha = 0;
+
+  if (method.recaptcha)
+  {
+    tr = table.Tr();
+    tr.Td(`${serial++}.`);
+    td = tr.Td()
+      .Colspan(3);
+    recaptcha = grecaptcha.render(td.node(), {
+      sitekey: method.recaptcha
+    });
+  }
+
+  tr = table.Tr();
+  tr.Td(`${serial++}.`);
+  td = tr.Td();
+  let passwordInput = td.Password()
+    .Width(&apos;100%&apos;)
+    .Placeholder(&apos;I remember my password&apos;)
+    .Autocomplete(&quot;off&quot;)
+    .Id(&apos;login-input-password&apos;);
+  let passwordLogin = td.Button(&apos;Login using password&apos;)
+    .Id(&apos;login-submit&apos;);
+  tr.Td(&apos;or&apos;)
+    .Padding(&apos;1em&apos;);
+  td = tr.Td(&apos;&apos;)
+  let passwordlessLogin = td.Button(options.passwordlessLabel || (options.loginLinkPrefix ? &apos;Send me a magic link&apos; : &apos;Send me a one time password&apos;));
+  if (options.passwordlessNotice)
+  {
+    td.P(options.passwordlessNotice);
+    // &apos;If you do not have an account, use this option to log in. A new account will be created for you. You may need to refer to an administrator to gain access to protected content.&apos;
+  }
+
+  let verification = td.Div();
+
+  function getParams()
+  {
+    let username = emailInput.Value();
+    let password = passwordInput.Value();
+    let loginLinkPrefix = options.loginLinkPrefix ? `${options.loginLinkPrefix}&amp;${options.usernameParam || &apos;u&apos;}=${username}&amp;${options.passwordParam || &apos;t&apos;}=` : undefined;
+    let recaptchaResponse = method.recaptcha ? grecaptcha.getResponse(recaptcha) : undefined;
+    if (method.recaptcha)
+    {
+      setTimeout(() =&gt; grecaptcha.reset(recaptcha), 3000);
+    }
+    return {
+      username,
+      password,
+      loginLinkPrefix,
+      recaptchaResponse,
+    };
+  }
+
+  passwordLogin.OnClick(() =&gt;
+  {
+    accounts.login(method, getParams())
+      .then(callback, x =&gt; alert(x.error || x));
+  });
+
+  passwordlessLogin.OnClick(() =&gt;
+  {
+    accounts.loginPasswordless(method, getParams(), options.passwordlessMode || &apos;passwordless&apos;)
+      .then(x =&gt; alert(x.success || x), x =&gt; alert(x.error || x));
+  });
+
+  passwordInput.OnKeydown(() =&gt;
+  {
+    if (event &amp;&amp; event.key === &apos;Enter&apos;)
+    {
+      passwordLogin.OnClick()();
+    }
+  });
+
+  emailInput.OnKeydown(() =&gt;
+  {
+    if (event &amp;&amp; event.key === &apos;Enter&apos;)
+    {
+      passwordlessLogin.OnClick()();
+    }
+  });
+
+  if (options.username)
+  {
+    emailInput.Value(options.username)
+    if (options.password)
+    {
+      passwordInput.Value(options.password);
+      passwordLogin.OnClick()();
+    }
+  }
+}
+
+function oneClickLogin(accounts, parent, method, callback)
+{
+  parent.Button(&apos;Log in using &apos; + method.method)
+    .OnClick(() =&gt;
+    {
+      accounts.login(method)
+        .then(callback, x =&gt; alert(x.error || x));
+    });
+}
+
+const loginMethodViews = {
+  email: emailLogin
+};
+
+export function showLoginView(accounts, parent, options = {})
+{
+  return new Promise(resolve =&gt;
+  {
+    parent.loader(&apos;Logging in&apos;);
+    accounts.loginMethods()
+      .then(methods =&gt;
+      {
+        parent.clear();
+        for (let method of methods)
+        {
+          let container = parent.Div();
+          try
+          {
+            (loginMethodViews[method.method] || oneClickLogin)(accounts, container.Div(), method, resolve, options);
+          }
+          catch (e)
+          {
+            console.error(e);
+          }
+        }
+      });
+  });
+}
+
+// ==========================
+// PROFILE
+// ==========================
+
+const makeDefaultFields = function (options)
+{
+  const output = {
+    displayName: {
+      label: &apos;Display Name&apos;,
+      defaultValue: &apos;&apos;,
+      editor: text
+    },
+    password: {
+      label: &apos;Password&apos;,
+      editor: pass,
+      // customAdmin: function(parent, value, save)
+      // {
+      //   if (value)
+      //   {
+      //     keyValue(parent, this.label).Button(&apos;Delete&apos;).OnClick(() =&gt; save(false));
+      //   }
+      // }
+    },
+  };
+  if (options.roles)
+  {
+    output.roles = {
+      label: &apos;Roles&apos;,
+      editor: multiselect(options.roles)
+    };
+  }
+  return output;
+}
+
+/**
+ * xxx
+ */
+export async function showProfileView(accounts, parent, options = {})
+{
+  function save(field)
+  {
+    return function (value)
+    {
+      let update = {};
+      update[field] = value;
+      accounts.updateCurrentUser(update)
+        .then(xx =&gt; alert(xx.success), err =&gt; alert(err.error));
+    };
+  }
+
+  parent.loader(&apos;Loading Profile&apos;);
+
+  const defaultFields = makeDefaultFields(options);
+  const record = await accounts.currentUser();
+  const fields = await accounts.fields();
+
+  parent.clear();
+
+  for (let field of fields.filter(field =&gt; field.enabled &amp;&amp; field.self))
+  {
+    let meta = defaultFields[field.name] || (options.fields || {})[field.name];
+    if (meta)
+    {
+      showEditor(keyValue(parent, meta.label), meta.editor, record[field.name] || meta.defaultValue, save(field.name));
+    }
+  }
+}
+
+// ==========================
+// MANAGE USERS
+// ==========================
+
+export function showManageView(accounts, parent, options = {})
+{
+  parent.clear();
+  let list = parent.Div();
+  let sub = parent.Div()
+    .Display(&apos;none&apos;);
+  const usersList = list.Table()
+    .Class(&apos;table&apos;)
+    .Tbody();
+  let tr = usersList.Tr();
+  tr.Th(&apos;Name&apos;);
+  tr.Th(&apos;Roles&apos;);
+  tr.Th(&apos;Actions&apos;);
+  const moreList = list.Div();
+  let allUsers = [];
+  async function load()
+  {
+    moreList.loader(&apos;Loading users&apos;);
+    const results = await accounts.searchUsers({
+      offset: allUsers.length
+    });
+    usersList.clear();
+    allUsers = allUsers.concat(results.results);
+    allUsers.forEach(user =&gt;
+    {
+      let tr = usersList.Tr();
+      tr.Td(user.displayName);
+      tr.Td(Object.keys(user.roles)
+        .filter(r =&gt; user.roles[r])
+        .join(&apos;, &apos;));
+      let td = tr.Td();
+      td.Button(&apos;Edit&apos;)
+        .OnClick(editUser.bind(null, user));
+      td.Button(&apos;Delete&apos;)
+        .OnClick(deleteUser.bind(null, user));
+    });
+    moreList.clear()
+      .Button(&apos;Load More&apos;)
+      .OnClick(load);
+    if (options.newUserTypes)
+    {
+      moreList.Button(&apos;New User&apos;)
+        .OnClick(newUser);
+    }
+  }
+  async function reload()
+  {
+    allUsers = [];
+    await load();
+  }
+
+  function editUser(user)
+  {
+    list.Display(&apos;none&apos;);
+    sub.Display(&apos;&apos;)
+      .loader();
+    async function display()
+    {
+      try
+      {
+        const id = user.id;
+        const defaultFields = makeDefaultFields(options);
+        const record = await accounts.readUser(user.id);
+        const fields = await accounts.fields();
+
+        function save(field, refresh)
+        {
+          return function (value)
+          {
+            let update = {};
+            update[field] = value;
+            accounts.updateUser(id, update)
+              .then(xx =&gt;
+              {
+                alert(xx.success);
+                if (refresh)
+                {
+                  display();
+                }
+              }, err =&gt; alert(err.error));
+          };
+        }
+
+        sub.clear();
+        sub.H2(`Edit ${record.displayName}`);
+
+        for (let field of fields.filter(field =&gt; field.enabled &amp;&amp; field.admin))
+        {
+          let meta = defaultFields[field.name] || (options.fields || {})[field.name];
+          if (meta)
+          {
+            showEditor(keyValue(sub, meta.label), meta.editor, record[field.name] || meta.defaultValue, save(field.name));
+          }
+        }
+        //
+        // showEditor(keyValue(sub, &apos;Display Name&apos;), text, record.displayName || &apos;&apos;, save(&apos;displayName&apos;));
+        // if (record.password)
+        // {
+        //   keyValue(sub, &apos;Password&apos;).Button(&apos;Delete&apos;).OnClick(() =&gt; save(&apos;password&apos;, true)(&apos;&apos;));
+        // }
+        // if (options.notification)
+        // {
+        //   if (options.notification.interval)
+        //   {
+        //     showEditor(keyValue(sub, &apos;Notify Me&apos;), select(options.notification.interval), record.notificationInterval, save(&apos;notificationInterval&apos;));
+        //   }
+        //   if (options.notification.subscription)
+        //   {
+        //     showEditor(keyValue(sub, &apos;Notification Subscriptions&apos;), multiselect(options.notification.subscription), record.notificationSubscriptions || {}, save(&apos;notificationSubscriptions&apos;));
+        //   }
+        // }
+        // if (options.roles)
+        // {
+        //   showEditor(keyValue(sub, &apos;Roles&apos;), multiselect(options.roles), record.roles || {}, save(&apos;roles&apos;));
+        // }
+
+        sub.Button(&apos;Back&apos;)
+          .OnClick(() =&gt;
+          {
+            list.Display(&apos;&apos;);
+            sub.Display(&apos;none&apos;);
+            reload();
+          });
+      }
+      catch (err)
+      {
+        alert(err.message);
+      }
+    }
+    display();
+  }
+
+  function deleteUser(user)
+  {
+    list.Display(&apos;none&apos;);
+    sub.Display(&apos;&apos;)
+      .clear();
+    sub.H2(`Do you want to delete this user: ${user.displayName}?`);
+    sub.Button(&apos;Yes&apos;)
+      .OnClick(() =&gt;
+      {
+        accounts.deleteUser(user.id)
+          .then(x =&gt;
+          {
+            alert(x.success);
+            list.Display(&apos;&apos;);
+            sub.Display(&apos;none&apos;);
+            reload();
+          }, x =&gt; alert(x.error));
+      });
+    sub.Button(&apos;No&apos;)
+      .OnClick(() =&gt;
+      {
+        list.Display(&apos;&apos;);
+        sub.Display(&apos;none&apos;);
+      });
+  }
+  async function newUser()
+  {
+    list.Display(&apos;none&apos;);
+    sub.Display(&apos;&apos;)
+      .clear();
+    Object.keys(options.newUserTypes)
+      .forEach(type_ =&gt;
+      {
+        sub.H2(`Create New User With ${options.newUserTypes[type_]}:`);
+        const inputCredential = sub.InputText()
+          .Placeholder(`Enter new ${type_} here:`);
+        sub.Button(&apos;Create&apos;)
+          .OnClick(async() =&gt;
+          {
+            const credential = inputCredential.Value()
+              .replace(/\s/g, &apos;&apos;);
+            if (credential)
+            {
+              try
+              {
+                const response = await accounts.createUser(type_, credential);
+                alert(response.success)
+                list.Display(&apos;&apos;);
+                sub.Display(&apos;none&apos;);
+                await reload();
+                editUser(response.user);
+              }
+              catch (err)
+              {
+                console.log(err)
+                alert(err.error || err.message);
+              }
+            }
+            else
+            {
+              alert(`Please input ${type}`)
+            }
+          });
+        sub.Button(&apos;Cancel&apos;)
+          .OnClick(() =&gt;
+          {
+            list.Display(&apos;&apos;);
+            sub.Display(&apos;none&apos;);
+          });
+      });
+
+  }
+  load();
+}
+</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>
